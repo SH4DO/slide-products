@@ -1,33 +1,33 @@
-{
-    "0": {
+[
+    {
         "name": "Old No. 07",
         "price" : 109.88,
         "description" : "Suavizado gota a gota a través de tres metros de carbón de arce de azúcar, tras lo cual es madurado en barriles hechos a mano por nosotros. Y nuestro Tennessee Whiskey no sigue un calendario. ",
         "image" : "./image/1.png"
     },
-    "1" : {
+    {
         "name": "Gentleman Jack",
         "price" : 174.88,
         "description" : "Inspirado por el caballero original, Gentleman Jack recibe un segundo filtrado en carbón para alcanzar una suavidad excepcional.",
         "image" : "./image/2.png"
     },
-    "2" : {
+    {
         "name": "single barrel select.",
         "price" : 293.63,
         "description" : "Embotellado a 94 grados, Single Barrel Select muestra notas de caramelo y especias, con brillantes notas de fruta y dulces aromas para un Tennessee Whiskey con un sabor sin igual.",
         "image" : "./image/3.png"
     },
-    "3" : {
+    {
         "name": "single barrel rye",
         "price" : 428,
         "description" : "Esta creación histórica combina la suavidad de Jack Daniel's con una única mezcla de 70% de grano de centeno. Sabores complejos de fruta madura combinados con notas suaves de tostado de roble.",
         "image" : "./image/4.png"
     },
-    "4" : {
+    {
         "name": "Bonded",
         "price" : 319.99,
         "description" : "Esta creación histórica combina la suavidad de Jack Daniel's con una única mezcla de 70% de grano de centeno. Sabores complejos de fruta madura combinados con notas suaves de tostado de roble.",
         "image" : "./image/2.png"
     }
-}
+]
 
